@@ -1,3 +1,3 @@
 <Query Kind="Expression" />
 
-("bonjour").Dump()
+("bonjour, c'est victor").Dump()
